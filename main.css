@@ -1,7 +1,7 @@
 .head{
   text-align: center;
   padding: 40px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif
+  font-family: "Open Sans";
 }
 
 .pic{
@@ -21,7 +21,7 @@
   margin: 0 auto;
   padding-top: 10px;
   overflow: hidden;
-  font-family:serif;
+  font-family: "Open Sans";
   padding: 50px;
 }
 
@@ -72,9 +72,10 @@ body,html{
 body{
   margin:0;
   padding:0;
-  background: rgb(238, 238, 238);
+  background: rgb(229, 229, 229);
   z-index: 1;
 }
+/*
 .bubbles{
   position: absolute;
   width:100%;
@@ -176,3 +177,4 @@ body{
     transform:translateX(-200px);
   }
 }
+*/
